@@ -1,0 +1,9 @@
+{
+  "name": "Turbo-Muon + EngramLite + ParamBanking + GPTQ Reserve Optimization",
+  "val_bpb": 1.1128,
+  "bytes_total": 15988373,
+  "blurb": "PR #1089 (Turbo-Muon + EngramLite + Parameter Banking) with GPTQ reserve optimization (14s to 9s, +55 training steps), fused Triton MLP forward kernel (disabled pending torch.compile compat), centralized activation slope, FA3 wheel install. 3-seed mean: 1.1128 (std 0.0008). Built on PR #1089 by @mikeapedia.",
+  "author": "Bortlesboat",
+  "github_id": "Bortlesboat",
+  "date": "2026-03-30"
+}
